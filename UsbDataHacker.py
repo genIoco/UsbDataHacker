@@ -88,6 +88,7 @@ class MouseDataHacker:
         ax1.scatter(self.X, self.Y, c='r')
         plt.show()
 
+#TODO #1
 class KeyDataHacker:
     def __init__(self) -> None:
         #Keyboard Traffic Dictionary
